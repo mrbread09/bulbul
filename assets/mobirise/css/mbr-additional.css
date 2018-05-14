@@ -1567,6 +1567,9 @@ body {
   width: 100% !important;
   height: 100% !important;
 }
+.cid-qRUFCq5qrb .main {
+  flex-direction: row-reverse;
+}
 .cid-qRUFCq5qrb .row-element,
 .cid-qRUFCq5qrb .image-element {
   padding: 0;
@@ -1710,6 +1713,9 @@ body {
 .cid-qRUJDQbhjl .img-wrap {
   width: 100% !important;
   height: 100% !important;
+}
+.cid-qRUJDQbhjl .main {
+  flex-direction: row-reverse;
 }
 .cid-qRUJDQbhjl .row-element,
 .cid-qRUJDQbhjl .image-element {
